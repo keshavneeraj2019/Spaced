@@ -1,0 +1,9 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java -javaagent:/Users/neerajkeshav/Library/Caches/IdeaIC2018.2/testAgent/intellij-coverage-agent-1.0.470.jar=/private/var/folders/5x/p_9pf_sj5c1dq9myg_8xnc_w0000gn/T/coverage512args "-javaagent:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55492:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/neerajkeshav/IdeaProjects/Spaced/out/production/Spaced Main
+---- IntelliJ IDEA coverage runner ---- 
+sampling ...
+include patterns:
+exclude patterns:
+The longest distance between the 3 drones are 13.601470508735444
+The shortest distance between the 3 drones are 9.9498743710662
+
+Process finished with exit code 0
